@@ -49,4 +49,14 @@ python src/run_pipeline.py
 - The limits and point values are my assumptions.
 - A warning sign is not proof of fraud. It means a person should take a closer look.
 
-**Tools:** SQL (SQLite), Python (pandas, NumPy, matplotlib), Jupyter | **License:** MIT
+**Tools:** 
+
+
+           SQL (SQLite)
+
+           Python (pandas, NumPy, matplotlib)
+           
+           Jupyter 
+
+
+**License:** MIT
